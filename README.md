@@ -75,7 +75,7 @@ const mohitKumar = {
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohitKumar010&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/ ?username=MohitKumar010&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="trophies"/>
 </div>
 
 ## 📈 Contribution Activity
